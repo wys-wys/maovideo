@@ -5,45 +5,45 @@
                 "key": "kunyu77",
                 "name": "影视·念心-七七",
                 "type": 3,
-                "api": "assets://js/kunyu77_open.js"
+                "api": "kunyu77_open.js"
             },
             {
                 "key": "17kan",
                 "name": "影视·念心-17看",
                 "type": 3,
-                "api": "assets://js/yqktv_open.js"
+                "api": "yqktv_open.js"
             },
             {
                 "key": "wobg",
                 "name": "影视·念心-玩偶",
                 "type": 3,
-                "api": "assets://js/wogg_open.js",
+                "api": "wogg_open.js",
                 "ext": "输入你自己的阿里32位token"
             },
             {
                 "key": "subaibai",
                 "name": "影视·念心-素白",
                 "type": 3,
-                "api": "assets://js/subaibai_open.js"
+                "api": "subaibai_open.js"
             },
             {
                 "key": "yt",
                 "name": "影视·念心-影探",
                 "type": 3,
-                "api": "assets://js/yt_open.js",
+                "api": "yt_open.js",
                 "ext": "http://ytcms.lyyytv.cn/api.php/app/"
             },
             {
                 "key": "ngsp",
                 "name": "影视·念心-南瓜",
                 "type": 3,
-                "api": "assets://js/ng_open.js"
+                "api": "ng_open.js"
             },
             {
                 "key": "boosj",
                 "name": "影视·念心-童趣",
                 "type": 3,
-                "api": "assets://js/boosj_open.js"
+                "api": "boosj_open.js"
             },
             {
                 "key": "jinying",
@@ -56,61 +56,61 @@
                 "key": "djwm",
                 "name": "短剧·念心-短剧",
                 "type": 3,
-                "api": "assets://js/djwm_open.js"
+                "api": "djwm_open.js"
             },
             {
                 "key": "mimiju",
                 "name": "短剧·念心-迷迷",
                 "type": 3,
-                "api": "assets://js/mimiju_open.js"
+                "api": "mimiju_open.js"
             },
             {
                 "key": "vsdj",
                 "name": "短剧·念心-VSM",
                 "type": 3,
-                "api": "assets://js/vsdj_open.js"
+                "api": "vsdj_open.js"
             },
             {
                 "key": "cntv",
                 "name": "念心-电视",
                 "type": 3,
-                "api": "assets://js/cntv_open.js"
+                "api": "cntv_open.js"
             },
             {
                 "key": "ubestkid",
                 "name": "儿童·念心-乐虎",
                 "type": 3,
-                "api": "assets://js/ubestkid_open.js"
+                "api": "ubestkid_open.js"
             },
             {
                 "key": "tuxiaobei",
                 "name": "儿童·念心-小贝",
                 "type": 3,
-                "api": "assets://js/tuxiaobei_open.js"
+                "api": "tuxiaobei_open.js"
             },
             {
                 "key": "anfun",
                 "name": "动漫·念心-Afun",
                 "type": 3,
-                "api": "assets://js/anfun_open.js"
+                "api": "anfun_open.js"
             },
             {
                 "key": "58dm",
                 "name": "动漫·念心-五八",
                 "type": 3,
-                "api": "assets://js/58dm_open.js"
+                "api": "58dm_open.js"
             },	
             {
                 "key": "douyu",
                 "name": "念心-斗鱼",
                 "type": 3,
-                "api": "assets://js/douyu_open.js"
+                "api": "douyu_open.js"
             },
             {
                 "key": "sharenice",
                 "name": "念心-短视频",
                 "type": 3,
-                "api": "assets://js/sharenice_open.js"
+                "api": "sharenice_open.js"
             }
         ]
     },
@@ -120,25 +120,25 @@
                 "key": "bookan",
                 "name": "念心小站-博看",
                 "type": 10,
-                "api": "assets://js/bookan_open.js"
+                "api": "bookan_open.js"
             },
             {
                 "key": "230ts",
                 "name": "念心小站-爱上",
                 "type": 10,
-                "api": "assets://js/230ts_book_open.js"
+                "api": "230ts_book_open.js"
             },
             {
                 "key": "laobai",
                 "name": "念心小站-老白",
                 "type": 10,
-                "api": "assets://js/lbgs_open.js"
+                "api": "lbgs_open.js"
             },
             {
                 "key": "0809",
                 "name": "念心小站-听歌",
                 "type": 3,
-                "api": "assets://js/dj0898_book_open.js"
+                "api": "dj0898_book_open.js"
             }
         ]
     },
@@ -148,7 +148,7 @@
                 "key": "alist",
                 "name": "Alist",
                 "type": 40,
-                "api": "assets://js/alist_open.js",
+                "api": "alist_open.js",
                 "ext": [
                     {
                         "name": "🙋丫仙女",
